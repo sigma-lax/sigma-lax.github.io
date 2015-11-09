@@ -94,7 +94,7 @@ comments: false
     			<tr>
     				<td>27</td>
     				<td>D</td>
-    				<td>양다</td>
+    				<td>양다빈</td>
     				<td></td>
     			</tr>
     			<tr>
