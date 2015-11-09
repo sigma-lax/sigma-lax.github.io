@@ -14,11 +14,11 @@ menu:
     url: '/about'
   - title: 'PLAYER'
     url: '/player'
-    submenu:
-      - title: 'SIGMA'
-        url: '/about'
-      - title: 'PLAYER'
-        url: '/sigma'
+    # submenu:
+    #   - title: 'SIGMA'
+    #     url: '/about'
+    #   - title: 'PLAYER'
+    #     url: '/sigma'
   - title: 'NEWS'
     url: '/categories'
     type: 'categories'
