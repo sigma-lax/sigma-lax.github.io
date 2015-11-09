@@ -51,7 +51,7 @@ comments: false
     			</tr>
     			<tr>
     				<td>16</td>
-    				<td>D / M</td>
+    				<td>M</td>
     				<td>강지윤</td>
     				<td></td>
     			</tr>
@@ -81,7 +81,7 @@ comments: false
     			</tr>
     			<tr>
     				<td>13</td>
-    				<td>A / M</td>
+    				<td>A</td>
     				<td>송지현</td>
     				<td></td>
     			</tr>
