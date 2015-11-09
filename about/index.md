@@ -1,9 +1,9 @@
 ---
-layout: page
-title: About SIGMA LAX
+layout: post-index
+title: "About SIGMA Lacrosse"
 description: "everything"
-modified: 2015-11-09
 tags: [sigma]
+comments: false
 ---
 # SIGMA LACROSSE
 

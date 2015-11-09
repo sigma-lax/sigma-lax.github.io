@@ -1,9 +1,9 @@
 ---
-layout: page
-title: SIGMA PLAYER
+layout: post-index
+title: "SIGMA PLAYER"
 description: "PLAYER"
-modified: 2015-11-09
 tags: [sigma]
+comments: false
 ---
 
 ## PLAYER
