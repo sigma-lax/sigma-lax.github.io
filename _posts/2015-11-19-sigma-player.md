@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: SIGMA PLAYER
 description: "PLAYER"
 modified: 2015-11-09
@@ -22,8 +22,8 @@ tags: [sigma]
 | 17   | M   | 이채은   ||
 | 13   | A / M   | 송지현   ||
 | 23   | M   | 김도원  ||
-| 27   | D    | 양다빈   |총|
+| 27   | D    | 양다빈   |총무|
 | 2   | M   | 오예진   ||
 | 12   | M   | 손별   ||
-|=====무
+|=====
 {: rules="groups"}
