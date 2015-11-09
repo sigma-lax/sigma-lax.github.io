@@ -462,7 +462,8 @@ ul.social-buttons li a:active {
 	height: 100%;
 	min-height: 300px;
 	overflow: hidden;
-	background-color: $header-color;
+	//background-color: $header-color;
+	background: 'images/sigma-background.jpg';
 }
 .header-toggle{
 	display: block;

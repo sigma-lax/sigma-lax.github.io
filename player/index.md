@@ -5,7 +5,11 @@ description: "PLAYER"
 tags: [sigma]
 comments: false
 ---
-
+<style type="text/css">
+	table{
+		border: 2px solid black;
+	}
+</style>>
 <article>
 	<div style="text-align: center">
     		<table>
