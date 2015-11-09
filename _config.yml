@@ -11,25 +11,25 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'About'
-    url: '/about'
-  - title: 'Tags'
-    url: '/tags'
+    url: '#'
+    submenu:
+      - title: 'SIGMA'
+        url: '/about-sigma/'
+      - title: 'PLAYER'
+        url: '/sigma-player/'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'highlighter'
-        url: '/code-highlighting-post/'
-      - title: 'intro'
-        url: '/readability-post/'
+  - title: 'Tags'
+    url: '/tags'
+  - title: 'NewsLetter'
+    url: '/newsletter'
 
 # Owner/author information
 owner:
   name:           SIGMA
   site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
+  avatar:         images/sigma-logo.jpg
   bio:            "KOREA WOMEN'S LACROSSE CLUB TEAM"
   email:          sigmalax@gmail.com
   # Social networking links used in footer. Update and remove as you like.
