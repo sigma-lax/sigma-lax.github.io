@@ -11,19 +11,19 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'About'
-    url: '#'
+    url: '/about'
+  - title: 'PLAYER'
+    url: '/player'
     submenu:
       - title: 'SIGMA'
-        url: '/about-sigma/'
+        url: '/about'
       - title: 'PLAYER'
-        url: '/sigma-player/'
-  - title: 'Categories'
+        url: '/sigma'
+  - title: 'NEWS'
     url: '/categories'
     type: 'categories'
   - title: 'Tags'
     url: '/tags'
-  - title: 'NewsLetter'
-    url: '/newsletter'
 
 # Owner/author information
 owner:
