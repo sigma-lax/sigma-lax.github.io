@@ -5,7 +5,11 @@ description: "PLAYER"
 tags: [sigma player]
 comments: false
 ---
-
+<style type="text/css">
+article {
+    padding: 10px 20px;
+}
+</style>
 <table>
     <colgroup>
         <col width="45%"/>
@@ -23,18 +27,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>14</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>D</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>이혜수</td>
                         </tr>
                     </table>   
@@ -52,17 +56,17 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>11</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>                        </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>A</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>최은아</td>
                         </tr>
                     </table>                        
@@ -80,18 +84,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>8</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>                         
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>D</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>김연수</td>
                         </tr>
                     </table>   
@@ -109,18 +113,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>10</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>A</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>윤은희</td>
                         </tr>
                     </table>                        
@@ -138,18 +142,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>16</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>강지윤</td>
                         </tr>
                     </table>   
@@ -167,18 +171,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>33</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>지혜연</td>
                         </tr>
                     </table>                        
@@ -196,18 +200,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>9</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>나가람</td>
                         </tr>
                     </table>   
@@ -225,18 +229,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>7</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>D</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>김윤빈</td>
                         </tr>
                     </table>                        
@@ -254,18 +258,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>17</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>이채은</td>
                         </tr>
                     </table>   
@@ -283,18 +287,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>13</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>송지현</td>
                         </tr>
                     </table>                        
@@ -312,18 +316,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>23</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>김도원</td>
                         </tr>
                     </table>   
@@ -341,18 +345,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>27</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>D</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>양다빈</td>
                         </tr>
                     </table>                        
@@ -370,18 +374,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>2</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>오예진</td>
                         </tr>
                     </table>   
@@ -399,18 +403,18 @@ comments: false
                             <col width="30%"/>
                         </colgroup>
                         <tr>
-                            <td>No.</td>
+                            <th>No.</th>
                             <td>12</td>
                             <td rowspan="3">
                                 <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
                             </td>
                         </tr>
                         <tr>
-                            <td>Position</td>
+                            <th>Position</th>
                             <td>M</td>
                         </tr>
                         <tr>
-                            <td>Name</td>
+                            <th>Name</th>
                             <td>손별</td>
                         </tr>
                     </table>                        
