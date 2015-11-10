@@ -5,14 +5,9 @@ description: "PLAYER"
 tags: [sigma]
 comments: false
 ---
-<style type="text/css">
-	table{
-		border: 2px solid black;
-	}
-</style>>
 <article>
 	<div style="text-align: center">
-    		<table>
+    		<table style='border: 2px solid black;'>
     			<colgroup>
     				<col width="10%">
     				<col width="15%">
