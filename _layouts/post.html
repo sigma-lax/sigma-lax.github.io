@@ -31,7 +31,7 @@ Description: Awesome dude, awesome life
             <header class="notepad-post-header-simple">
                 <div class="notepad-post-menu-header-simple">
 {% endif %}
-                    <a class="notepad-blog-logo" href="{{ site.url }}">
+                    <a class="notepad-blog-logo" href="/">
                         <img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo" />
                     </a>
 
@@ -50,7 +50,6 @@ Description: Awesome dude, awesome life
                     <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
 {% endfor %}            
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </ul>
 
 </div>
