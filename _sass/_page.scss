@@ -338,6 +338,9 @@ ul.social-buttons li a:active {
 // Post Index
 // --------------------------------------------------
 #post-index {
+	table article {
+		padding: 10px 20px;
+	}
 	#main {
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
