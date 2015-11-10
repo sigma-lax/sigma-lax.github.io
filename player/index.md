@@ -5,7 +5,7 @@ description: "PLAYER"
 tags: [sigma player]
 comments: false
 ---
-<div>
+<div class="player">
 	<article>
 	    <div style="text-align: center">
 	        <table>
