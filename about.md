@@ -27,72 +27,137 @@ chart: true
 {% endfor %}
 
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog. It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+<section id="cd-timeline" class="cd-container">
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-picture">
+        <img src="/images/cd-icon-picture.svg" alt="Picture">
+      </div> <!-- cd-timeline-img -->
 
-I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UPENN**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I double majored in EECS and Mathematics during my undergraduate life at [MIT](http://www.mit.edu/), and currently focusing on Electrical Engineering for my post-graduate studies.
+      <div class="cd-timeline-content">
+        <h2>Title of section 1</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+        <a href="#0" class="cd-read-more">Read more</a>
+        <span class="cd-date">Jan 14</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
 
-*[ESE]: Electrical and Systems Engineering
-*[SEAS]: School of Engineering and Applied Science
-*[MIT]: Massachusetts Institute of Technology
-*[EECS]: Electrical and Computer Engineering
-*[UPENN]: University of Pennsylvania
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-movie">
+        <img src="/images/cd-icon-movie.svg" alt="Movie">
+      </div> <!-- cd-timeline-img -->
 
-<figure>
-	<img src="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg" alt="Hossain Mohammad Faysal">
-	<figcaption>At Bates Linear Accelerator Center</figcaption>
-</figure>
+      <div class="cd-timeline-content">
+        <h2>Title of section 2</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
+        <a href="#0" class="cd-read-more">Read more</a>
+        <span class="cd-date">Jan 18</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
 
-I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-picture">
+        <img src="/images/cd-icon-picture.svg" alt="Picture">
+      </div> <!-- cd-timeline-img -->
 
-<figure class="third">
-	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
-</figure>
-<figure class="half">
-	<a href="{{ site.url }}/images/about/4.jpg"><img src="{{ site.url }}/images/about/4-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/5.jpg"><img src="{{ site.url }}/images/about/5-001.jpg"></a>
-</figure>
-<figure class="third">
-	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/6-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/7.jpg"><img src="{{ site.url }}/images/about/7-001.jpg"></a>
-	<a href="{{ site.url }}/images/about/8.jpg"><img src="{{ site.url }}/images/about/8-001.jpg"></a>
-	<figcaption>Doha at its full glory.</figcaption>
-</figure>
+      <div class="cd-timeline-content">
+        <h2>Title of section 3</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
+        <a href="#0" class="cd-read-more">Read more</a>
+        <span class="cd-date">Jan 24</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
 
-At some point in the not-terribly-distant future, I hope to found a self-sustaining collective of clever people, for fun, profit(?), and the promotion of human life in the universe. This might wind up in Qatar, Bangladesh, Scandinavia, the Massachusetts Bay Area, the SF Bay Area, Japan, Germany, or the dustbin of overly idealistic plans. (Yes, I have a special bin for overly idealistic plans. In my district they can't be recycled with residential mixed paper.) The most challenging aspect of this concept is to curtail unproductive competition with other people who will inevitably have the same idea. (Some sort of cooperative federation...) I'm presently looking for people who might be interested in being a part of such an organization.
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-location">
+        <img src="/images/cd-icon-location.svg" alt="Location">
+      </div> <!-- cd-timeline-img -->
 
-Anyways, for now I'm just working toward changing the face of Electrical Engineering forever. Not that I necessarily expect to succeed, but it's something to strive for, and it's a fun problem to work on.
+      <div class="cd-timeline-content">
+        <h2>Title of section 4</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+        <a href="#0" class="cd-read-more">Read more</a>
+        <span class="cd-date">Feb 14</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
 
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-location">
+        <img src="/images/cd-icon-location.svg" alt="Location">
+      </div> <!-- cd-timeline-img -->
 
-Entrepreneur  
-Designer  
-***Engineer***  
-Inventor  
+      <div class="cd-timeline-content">
+        <h2>Title of section 5</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
+        <a href="#0" class="cd-read-more">Read more</a>
+        <span class="cd-date">Feb 18</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
 
-I
-make
-stuff.
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-movie">
+        <img src="/images/cd-icon-movie.svg" alt="Movie">
+      </div> <!-- cd-timeline-img -->
 
+      <div class="cd-timeline-content">
+        <h2>Final Section</h2>
+        <p>This is the content of the last section</p>
+        <span class="cd-date">Feb 26</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+  </section> <!-- cd-timeline -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/assets/js/main.js"></script> <!-- Resource jQuery -->
+<article class="notepad-page-content">
+  <h2>HISTORY</h2>
+  <ul class="cbp_tmtimeline">
+    <li>
+      <time class="cbp_tmtime" datetime="2014-01-27"><span>01/27</span><span>2014  </span></time>
+      <div class="cbp_tmicon cbp_tmicon-phone"></div>
+      <div class="cbp_tmlabel">
+        <h2>창단</h2>
+        <p>SIGMA LACROSSE 창단<br>
+                  이혜수 최은아 윤은희 나가람 지혜연 강지윤
+              </p>
+      </div>
+    </li>
+    <li>
+      <time class="cbp_tmtime" datetime="2014-07-23"><span>07/23</span><span>2014  </span></time>
+      <div class="cbp_tmicon cbp_tmicon-screen"></div>
+      <div class="cbp_tmlabel">
+        <h2>2014 SUMMER LEAGUE</h2>
+        <p>2014 SUMMER LEAGUE 우승</p>
+      </div>
+    </li>
+    <li>
+      <time class="cbp_tmtime" datetime="2015-01-05"><span>01/05</span><span>2015  </span></time>
+      <div class="cbp_tmicon cbp_tmicon-mail"></div>
+      <div class="cbp_tmlabel">
+        <h2>2015 INDOOR LEAGUE</h2>
+        <p>2015 INDOOR LEAGUE 우승</p>
+      </div>
+    </li>
+    <li>
+      <time class="cbp_tmtime" datetime="2015-08-15"><span>08/15</span><span>2015  </span></time>
+      <div class="cbp_tmicon cbp_tmicon-phone"></div>
+      <div class="cbp_tmlabel">
+        <h2>2015 SUMMER LEAGUE</h2>
+        <p><strong>2015 SUMMER LEAGUE 우승</strong><br>
+          <br>
+                      <strong>2015/8/8</strong><br>
+                      SIGMA 25 : 2 경이대<br>
+                      #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
+                      #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
+              <br>
+                      <strong>2015/8/15</strong><br>
+                      SIGMA 29 : 1 연세대<br>
+                      #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
+                      #A 9(1), 10(1), 11(1), 13(2), 33(3)<br>
+                  </p>
+      </div>
+    </li>
+  </ul>
 
-*Beautiful, practical, meaningful stuff.*
+  <h2>CONTACT</h2>
+  <p><span style="background-color:gray;">E-MAIL</span>  sigmalax@gmail.com</p>
 
-
-I make what I love.
-
-*I love what I do.*
-
-
-But over the years, I noticed that somehow, along the way, software designed to help us be creative, actually made us less creative. That's because we believe our best ideas emerge when we use pencils and paper.
-So I set out to build tools that work the way I do.
-
-
-Tools for the creative space — the 53 centimeters that magically link head, heart, and hand. Tools as simple as pencil and paper. Tools so essential, I  really can't imagine work without them.
-
-
-For
-the makers,  
-the creators,  
-the discoverers,  
-the original thinkers,  
-***This is the space to create.***
+</article>
