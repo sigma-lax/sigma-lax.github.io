@@ -2,7 +2,7 @@
 layout: post-index
 title: "SIGMA PLAYER"
 description: "PLAYER"
-tags: [sigma player]
+tags: [sigma, player]
 comments: false
 ---
 
