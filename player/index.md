@@ -45,7 +45,8 @@ comments: false
                 <td>11</td>
                 <td rowspan="3">
                     <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
-                </td>                        </tr>
+                </td>                        
+            </tr>
             <tr>
                 <th>Position</th>
                 <td>A</td>
