@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Hossain Mohd Faysal
+title: ABOUT SIGMA
 tags: [history, about, sigma]
 imagefeature: fourseasons.jpg
 chart: true

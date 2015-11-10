@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /player/index.html
-title: Hossain Mohd Faysal
+title: PLAYER
 tags: [lacrosse, player, sigma]
 imagefeature: fourseasons.jpg
 chart: true
