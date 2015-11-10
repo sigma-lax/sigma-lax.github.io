@@ -39,17 +39,18 @@ comments: false
 			<div class="cbp_tmicon cbp_tmicon-phone"></div>
 			<div class="cbp_tmlabel">
 				<h2>2015 SUMMER LEAGUE</h2>
-				<p>2015 SUMMER LEAGUE 우승<br>
-	                2015/8/8<br>
-	                SIGMA 25 : 2 경이대<br>
-	                #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
-	                #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
-			<br>
-	                2015/8/15<br>
-	                SIGMA 29 : 1 연세대<br>
-	                #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
-	                #A 9(1), 10(1), 11(1), 13(2), 33(3)<br>
-	            </p>
+				<p><strong>2015 SUMMER LEAGUE 우승</strong><br>
+					<br>
+			                <strong>2015/8/8</strong><br>
+			                SIGMA 25 : 2 경이대<br>
+			                #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
+			                #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
+							<br>
+			                <strong>2015/8/15</strong><br>
+			                SIGMA 29 : 1 연세대<br>
+			                #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
+			                #A 9(1), 10(1), 11(1), 13(2), 33(3)<br>
+		            	</p>
 			</div>
 		</li>
 	</ul>
