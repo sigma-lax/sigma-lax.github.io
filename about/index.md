@@ -44,7 +44,7 @@ comments: false
                 SIGMA 25 : 2 경이대<br>
                 #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
                 #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
-
+		<br>
                 2015/8/15<br>
                 SIGMA 29 : 1 연세대<br>
                 #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
@@ -55,7 +55,7 @@ comments: false
 </ul>
 
   <h2>CONTACT</h2>
-	<span style="background-color:gray;">E-MAIL</span>  sigmalax@gmail.com
+	<p><span style="background-color:gray;">E-MAIL</span>  sigmalax@gmail.com</p>
 </article>
 
 
