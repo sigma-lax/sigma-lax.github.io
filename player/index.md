@@ -18,7 +18,7 @@ comments: false
 	                <th>No.</th>
 	                <td>14</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -44,7 +44,7 @@ comments: false
 	                <th>No.</th>
 	                <td>11</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>                        
 	            </tr>
 	            <tr>
@@ -70,7 +70,7 @@ comments: false
 	                <th>No.</th>
 	                <td>8</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>                         
 	            </tr>
 	            <tr>
@@ -96,7 +96,7 @@ comments: false
 	                <th>No.</th>
 	                <td>10</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -122,7 +122,7 @@ comments: false
 	                <th>No.</th>
 	                <td>16</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -148,7 +148,7 @@ comments: false
 	                <th>No.</th>
 	                <td>33</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -174,7 +174,7 @@ comments: false
 	                <th>No.</th>
 	                <td>9</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -200,7 +200,7 @@ comments: false
 	                <th>No.</th>
 	                <td>7</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -226,7 +226,7 @@ comments: false
 	                <th>No.</th>
 	                <td>17</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -252,7 +252,7 @@ comments: false
 	                <th>No.</th>
 	                <td>13</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -278,7 +278,7 @@ comments: false
 	                <th>No.</th>
 	                <td>23</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -304,7 +304,7 @@ comments: false
 	                <th>No.</th>
 	                <td>27</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -330,7 +330,7 @@ comments: false
 	                <th>No.</th>
 	                <td>2</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
@@ -356,7 +356,7 @@ comments: false
 	                <th>No.</th>
 	                <td>12</td>
 	                <td rowspan="3">
-	                    <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}"/>
+	                    <img class="author-img" src="{{site.url}}/images/avatar.jpg"/>
 	                </td>
 	            </tr>
 	            <tr>
