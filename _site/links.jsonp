@@ -2,32 +2,32 @@ callback([
 
   {
     "text": "Theme Elements",
-    "href": "/Notepad/articles/theme-elements"
+    "href": "//articles/theme-elements"
   } ,
 
   {
     "text": "Testing Readability with a Bunch of Text",
-    "href": "/Notepad/articles/readability-post"
+    "href": "//articles/readability-post"
   } ,
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "/Notepad/theme/readability-feature-post"
+    "href": "//theme/readability-feature-post"
   } ,
 
   {
     "text": "Documentation",
-    "href": "/Notepad/theme/documentation"
+    "href": "//theme/documentation"
   } ,
 
   {
     "text": "Introducing Notepad",
-    "href": "/Notepad/personal/introducing-notepad"
+    "href": "//personal/introducing-notepad"
   } ,
 
   {
     "text": "Why Jekyll?",
-    "href": "/Notepad/webdevelopment/why-jekyll"
+    "href": "//webdevelopment/why-jekyll"
   } 
 
 ])
