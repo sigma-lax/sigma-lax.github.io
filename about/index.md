@@ -9,7 +9,7 @@ comments: false
 	<h2>HISTORY</h2>
 	<ul class="cbp_tmtimeline">
 		<li>
-			<time class="cbp_tmtime" datetime="2014-01-27"><span>01/27</span><span>2014</span></time>
+			<time class="cbp_tmtime" datetime="2014-01-27"><span>01/27</span><span>2014  </span></time>
 			<div class="cbp_tmicon cbp_tmicon-phone"></div>
 			<div class="cbp_tmlabel">
 				<h2>창단</h2>
@@ -19,7 +19,7 @@ comments: false
 			</div>
 		</li>
 		<li>
-			<time class="cbp_tmtime" datetime="2014-07-23"><span>07/23</span><span>2014</span></time>
+			<time class="cbp_tmtime" datetime="2014-07-23"><span>07/23</span><span>2014  </span></time>
 			<div class="cbp_tmicon cbp_tmicon-screen"></div>
 			<div class="cbp_tmlabel">
 				<h2>2014 SUMMER LEAGUE</h2>
@@ -27,7 +27,7 @@ comments: false
 			</div>
 		</li>
 		<li>
-			<time class="cbp_tmtime" datetime="2015-01-05"><span>01/05</span><span>2015</span></time>
+			<time class="cbp_tmtime" datetime="2015-01-05"><span>01/05</span><span>2015  </span></time>
 			<div class="cbp_tmicon cbp_tmicon-mail"></div>
 			<div class="cbp_tmlabel">
 				<h2>2015 INDOOR LEAGUE</h2>
@@ -35,7 +35,7 @@ comments: false
 			</div>
 		</li>
 		<li>
-			<time class="cbp_tmtime" datetime="2015-08-15"><span>08/15</span><span>2015</span></time>
+			<time class="cbp_tmtime" datetime="2015-08-15"><span>08/15</span><span>2015  </span></time>
 			<div class="cbp_tmicon cbp_tmicon-phone"></div>
 			<div class="cbp_tmlabel">
 				<h2>2015 SUMMER LEAGUE</h2>
