@@ -5,11 +5,7 @@ description: "PLAYER"
 tags: [sigma player]
 comments: false
 ---
-<style type="text/css">
-article {
-    padding: 10px 20px;
-}
-</style>
+
 <table>
     <colgroup>
         <col width="45%"/>
