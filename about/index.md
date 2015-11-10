@@ -19,7 +19,7 @@ comments: false
 		</div>
 	</li>
 	<li>
-		<time class="cbp_tmtime" datetime="2014-07-23"><span>2014/01/23</span></time>
+		<time class="cbp_tmtime" datetime="2014-07-23"><span>2014/07/23</span></time>
 		<div class="cbp_tmicon cbp_tmicon-screen"></div>
 		<div class="cbp_tmlabel">
 			<h2>2014 SUMMER LEAGUE</h2>
