@@ -6,6 +6,7 @@ tags: [history, about, sigma]
 imagefeature: fourseasons.jpg
 chart: true
 ---
+<div style="background-color: #e9f0f5;">
 <section id="cd-timeline" class="cd-container">
     <div class="cd-timeline-block">
       <div class="cd-timeline-img cd-picture">
@@ -61,8 +62,6 @@ chart: true
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
   </section> <!-- cd-timeline -->
-
+</div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="/assets/js/main.js"></script> <!-- Resource jQuery -->
-<h2>CONTACT</h2>
-<p><span style="background-color:gray;">E-MAIL</span>  sigmalax@gmail.com</p>

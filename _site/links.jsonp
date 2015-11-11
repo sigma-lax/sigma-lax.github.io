@@ -2,7 +2,7 @@ callback([
 
   {
     "text": "Theme Elements",
-    "href": "/articles/theme-elements"
+    "href": "/theme/theme-elements"
   } ,
 
   {
@@ -12,7 +12,7 @@ callback([
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "/theme/readability-feature-post"
+    "href": "/lacrosse/readability-feature-post"
   } ,
 
   {

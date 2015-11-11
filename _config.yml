@@ -15,7 +15,7 @@ owner:
   avatar:         avatar.jpg
   email:          sigmalax@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Risk everything. <br>Fear Nothing. <br>Live with no regrets
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -39,14 +39,14 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
-  - title: Categories
-    url: /categories
   - title: About
     url: /about
   - title: Player
     url: /player
-  - title: 
-    url: /
+  - title: Posts
+    url: /categories
+  - title: Tags
+    url: /tags
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka

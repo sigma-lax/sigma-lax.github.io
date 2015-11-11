@@ -26,8 +26,8 @@
 	
 		{
 		  "title"      : "Post with Cover Image and Text",
-		  "category"   : "theme",
-		  "url"        : "/theme/readability-feature-post",
+		  "category"   : "lacrosse",
+		  "url"        : "/lacrosse/readability-feature-post",
 		  "date"       : "2013-05-23 00:00:00 +0600",
 		  "shortdate"  : "May 23, 2013"
 		} ,
@@ -42,8 +42,8 @@
 	
 		{
 		  "title"      : "Theme Elements",
-		  "category"   : "articles",
-		  "url"        : "/articles/theme-elements",
+		  "category"   : "theme",
+		  "url"        : "/theme/theme-elements",
 		  "date"       : "2011-03-10 00:00:00 +0600",
 		  "shortdate"  : "March 10, 2011"
 		} 
