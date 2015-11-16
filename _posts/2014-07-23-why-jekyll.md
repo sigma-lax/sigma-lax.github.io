@@ -1,30 +1,27 @@
 ---
 layout: post
-title: "Why Jekyll?"
+title: "SIGMA'S BLOG"
 description: 
 headline: 
-modified: 2014-07-23
-category: webdevelopment
+modified: 2015-11-16
+category: introduce
 tags: [jekyll]
-imagefeature: 
+imagefeature: sigma-background.jpg
 mathjax: 
 chart: 
 comments: true
 featured: true
 ---
 
-Well, I guess it's quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
+**SIMGA LACROSSE CLUB TEAM** 의 **BLOG** 입니다.
+TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. 
+창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다. 
 
-- **Speed**: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.
+블로그를 통해 SIGMA 의 소식과 한국 여자라크로스의 소식도 전하려합니다.
 
-- **Version Control**: Contents and files remain on your computer. Perform backups or keep track of changes via GIT or SVN — *it’s quite easy without a database.*
 
-- **Flexibility**: Ruby and Liquid — *Jekyll’s foundation* — empower you to easily extend its functionality. Or just use one of [many plugins](http://jekyllrb.com/docs/plugins/) created by a striving community.
 
-- **Security**: Anything you’ll ever put on your server are static files — chances are good that *you’ll never need to worry* about security concerns anymore.
 
-If that still doesn’t convince you to at least give it a try, I’d like to encourage you to head over to the Jekyll website and see it for yourself.
 
-**Heck, it’s that good** — I even wrote all of the guides for the theme documentation with it!
+###### 이 블로그는 Chrome 환경에 최적화 되어있습니다.
 
-Enjoy!
