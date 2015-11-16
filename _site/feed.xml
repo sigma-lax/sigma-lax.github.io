@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-11-16T19:08:52+06:00</updated>
+<updated>2015-11-16T19:13:33+06:00</updated>
 <id>/</id>
 <author>
   <name>SIGMA</name>
@@ -81,26 +81,30 @@
   
     &lt;p&gt;2015 한국라크로스 여름리그 (2015 Korea Lacrosse Summer League) 가 2015년 8월 8일 ~ 8월 22일, 3주동안 &lt;code&gt;목동주경기장&lt;/code&gt;에서 열렸습니다.&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
-&lt;table style=&quot;margin: auto; width: 70%;&quot;&gt;
-	&lt;tr&gt;
-		&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;여자부&lt;/td&gt;
-		&lt;td&gt;SIGMA&lt;/td&gt;
-		&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;남자부&lt;/td&gt;
-		&lt;td&gt;경희대학교&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;HAFS All-Stars&lt;/td&gt;
-		&lt;td&gt;MADDOGS (한국외대)&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;연세대학교&lt;/td&gt;
-		&lt;td&gt;CLU TIGERS&lt;/td&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;경이대 (경희대 &amp;amp; 이화여대)&lt;/td&gt;
-		&lt;td&gt;EXTREME&lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;
+&lt;div class=&quot;row&quot;&gt;
+    	&lt;div class=&quot;large-12 columns&quot;&gt;
+		&lt;table style=&quot;margin: auto; width: 70%;&quot;&gt;
+			&lt;tr&gt;
+				&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;여자부&lt;/td&gt;
+				&lt;td&gt;SIGMA&lt;/td&gt;
+				&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;남자부&lt;/td&gt;
+				&lt;td&gt;경희대학교&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;HAFS All-Stars&lt;/td&gt;
+				&lt;td&gt;MADDOGS (한국외대)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;연세대학교&lt;/td&gt;
+				&lt;td&gt;CLU TIGERS&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+				&lt;td&gt;경이대 (경희대 &amp;amp; 이화여대)&lt;/td&gt;
+				&lt;td&gt;EXTREME&lt;/td&gt;
+			&lt;/tr&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
