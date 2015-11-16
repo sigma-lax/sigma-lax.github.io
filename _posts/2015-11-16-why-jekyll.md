@@ -22,7 +22,7 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. <br
 <br>
 <br>
 
-** 시그마 SIGMA LACROSSE **
+**시그마 SIGMA LACROSSE**
 <br>
 **COLOR** > Black & Gold 
 <br>
