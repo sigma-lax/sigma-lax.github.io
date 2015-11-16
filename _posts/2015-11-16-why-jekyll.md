@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2015-11-16
 category: introduce
-tags: [jekyll]
+tags: [sigma]
 imagefeature: sigma-background.jpg
 mathjax: 
 chart: 
