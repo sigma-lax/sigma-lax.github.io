@@ -13,12 +13,14 @@ comments: true
 featured: true
 ---
 
-**SIMGA LACROSSE CLUB TEAM** 의 **BLOG** 입니다.
-TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. 
-창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다. 
+**SIMGA LACROSSE CLUB TEAM** 의 **BLOG** 입니다.<br>
 
+TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. <br>
+창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다. <br>
+<br>
 블로그를 통해 SIGMA 의 소식과 한국 여자라크로스의 소식도 전하려합니다.
-
+<br>
+<br>
 
 
 
