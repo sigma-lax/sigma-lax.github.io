@@ -9,49 +9,49 @@
 		} ,
 	
 		{
-		  "title"      : "REGULATIONS",
-		  "category"   : "sigma",
-		  "url"        : "/sigma/regulations",
-		  "date"       : "2015-11-16 00:00:00 +0600",
-		  "shortdate"  : "November 16, 2015"
+		  "title"      : "2015 SUMMER LEAGUE",
+		  "category"   : "league",
+		  "url"        : "/league/summer-league-2015",
+		  "date"       : "2015-08-22 00:00:00 +0600",
+		  "shortdate"  : "August 22, 2015"
 		} ,
 	
 		{
 		  "title"      : "Introducing Notepad",
-		  "category"   : "personal",
-		  "url"        : "/personal/introducing-notepad",
+		  "category"   : "jekyll",
+		  "url"        : "/jekyll/introducing-notepad",
 		  "date"       : "2014-07-19 00:00:00 +0600",
 		  "shortdate"  : "July 19, 2014"
 		} ,
 	
 		{
 		  "title"      : "Documentation",
-		  "category"   : "theme",
-		  "url"        : "/theme/documentation",
+		  "category"   : "jekyll",
+		  "url"        : "/jekyll/documentation",
 		  "date"       : "2014-06-19 00:00:00 +0600",
 		  "shortdate"  : "June 19, 2014"
 		} ,
 	
 		{
 		  "title"      : "Post with Cover Image and Text",
-		  "category"   : "lacrosse",
-		  "url"        : "/lacrosse/readability-feature-post",
+		  "category"   : "jekyll",
+		  "url"        : "/jekyll/readability-feature-post",
 		  "date"       : "2013-05-23 00:00:00 +0600",
 		  "shortdate"  : "May 23, 2013"
 		} ,
 	
 		{
 		  "title"      : "Testing Readability with a Bunch of Text",
-		  "category"   : "articles",
-		  "url"        : "/articles/readability-post",
+		  "category"   : "jekyll",
+		  "url"        : "/jekyll/readability-post",
 		  "date"       : "2012-05-22 00:00:00 +0600",
 		  "shortdate"  : "May 22, 2012"
 		} ,
 	
 		{
 		  "title"      : "Theme Elements",
-		  "category"   : "theme",
-		  "url"        : "/theme/theme-elements",
+		  "category"   : "jekyll",
+		  "url"        : "/jekyll/theme-elements",
 		  "date"       : "2011-03-10 00:00:00 +0600",
 		  "shortdate"  : "March 10, 2011"
 		} 

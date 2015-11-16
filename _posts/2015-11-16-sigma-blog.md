@@ -30,7 +30,6 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. <br
 
 <br>
 ![logo]({{ site.url }}/images/sigma-logo.png)
-![sigma]({{ site.url }}/images/sigma-background.jpg)
 
 
 <br>
@@ -40,6 +39,4 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. <br
 <br>
 <br>
 
-
-###### 이 블로그는 Chrome 환경에 최적화 되어있습니다.
 

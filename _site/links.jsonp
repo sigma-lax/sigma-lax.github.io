@@ -2,32 +2,32 @@ callback([
 
   {
     "text": "Theme Elements",
-    "href": "/theme/theme-elements"
+    "href": "/jekyll/theme-elements"
   } ,
 
   {
     "text": "Testing Readability with a Bunch of Text",
-    "href": "/articles/readability-post"
+    "href": "/jekyll/readability-post"
   } ,
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "/lacrosse/readability-feature-post"
+    "href": "/jekyll/readability-feature-post"
   } ,
 
   {
     "text": "Documentation",
-    "href": "/theme/documentation"
+    "href": "/jekyll/documentation"
   } ,
 
   {
     "text": "Introducing Notepad",
-    "href": "/personal/introducing-notepad"
+    "href": "/jekyll/introducing-notepad"
   } ,
 
   {
-    "text": "REGULATIONS",
-    "href": "/sigma/regulations"
+    "text": "2015 SUMMER LEAGUE",
+    "href": "/league/summer-league-2015"
   } ,
 
   {

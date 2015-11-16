@@ -4,8 +4,8 @@ title: "Introducing Notepad"
 description: 
 headline: 
 modified: 2014-07-19
-category: personal
-tags: []
+category: jekyll
+tags: [sample]
 imagefeature: cover1.jpg
 comments: true
 mathjax: 

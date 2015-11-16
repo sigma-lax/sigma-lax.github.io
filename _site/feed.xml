@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-11-16T17:55:11+06:00</updated>
+<updated>2015-11-16T19:03:00+06:00</updated>
 <id>/</id>
 <author>
   <name>SIGMA</name>
@@ -49,8 +49,7 @@
 &lt;strong&gt;SLOGAN&lt;/strong&gt;  Risk everything. Fear Nothing. Live with no regrets.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;
-&lt;img src=&quot;/images/sigma-background.jpg&quot; alt=&quot;sigma&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -59,8 +58,6 @@
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h6 id=&quot;chrome---&quot;&gt;이 블로그는 Chrome 환경에 최적화 되어있습니다.&lt;/h6&gt;
-
 
   
   &lt;p&gt;&lt;a href=&quot;/introduce/sigma-blog&quot;&gt;SIGMA'S BLOG&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on November 16, 2015.&lt;/p&gt;</content>
@@ -68,10 +65,10 @@
 
 
 <entry>
-  <title type="html"><![CDATA[REGULATIONS]]></title>
-  <link rel="alternate" type="text/html" href="/sigma/regulations"/>
-  <id>/sigma/regulations</id>
-  <published>2015-11-16T00:00:00+06:00</published>
+  <title type="html"><![CDATA[2015 SUMMER LEAGUE]]></title>
+  <link rel="alternate" type="text/html" href="/league/summer-league-2015"/>
+  <id>/league/summer-league-2015</id>
+  <published>2015-08-22T00:00:00+06:00</published>
   <updated>2015-11-16T00:00:00-00:00</updated>
   
   <author>
@@ -79,30 +76,62 @@
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sigma" term="sigma" />
+  <category scheme="/tags/#sigma" term="sigma" /><category scheme="/tags/#league" term="league" />
   <content type="html">
   
-    &lt;h2 id=&quot;brbrbr&quot;&gt;선수 계약관련 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
-&lt;p&gt;“SIGMA Lacrosse”를 “갑”, “선수”를 “을”이라 칭함.&lt;br /&gt;
-&lt;strong&gt;제1조 (계약의 기간)&lt;/strong&gt; : 계약 기간, 계약 연장 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제2조 (훈련 및 경기)&lt;/strong&gt; : 훈련 참석여부, 무단 불참시 벌금 금액 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제3조 (가입비 및 월 회비)&lt;/strong&gt; : 가입비, 월회비 금액, 납부기간, 미납시 벌금 금액, 장기 미납자에 대한 처벌 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제4조 (이적 및 임대)&lt;/strong&gt; : 이적 조건, 임대 조건 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제5조 (“갑”의 권리와 의무)&lt;/strong&gt; : “을”에 대한 보호, “을”에게 정보제공 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제6조 (“을”의 권리와 의무)&lt;/strong&gt; : 선수로서 의무, 책임, 규정이행 등에 관한 내용&lt;br /&gt;
-&lt;strong&gt;제7조 (계약의 해지)&lt;/strong&gt; : 선수로서 그만두거나, 계약만료, “갑”의 통보가능 &lt;br /&gt;
-&lt;strong&gt;제8조 (효력발생)&lt;/strong&gt; : 본 계약은 체결과 동시에 그 효력이 발생한다.&lt;br /&gt;&lt;/p&gt;
-
+    &lt;p&gt;2015 한국라크로스 여름리그 (2015 Korea Lacrosse Summer League) 가 2015년 8월 8일 ~ 8월 22일, 3주동안 &lt;code&gt;목동주경기장&lt;/code&gt;에서 열렸습니다.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;table style=&quot;margin: auto; width: 70%;&quot;&gt;
+	&lt;tr&gt;
+		&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;여자부&lt;/td&gt;
+		&lt;td&gt;SIGMA&lt;/td&gt;
+		&lt;td rowspan=&quot;4&quot; style=&quot;text-align:center;&quot;&gt;남자부&lt;/td&gt;
+		&lt;td&gt;경희대학교&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;HAFS All-Stars&lt;/td&gt;
+		&lt;td&gt;MADDOGS (한국외대)&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;연세대학교&lt;/td&gt;
+		&lt;td&gt;CLU TIGERS&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;경이대 (경희대 &amp;amp; 이화여대)&lt;/td&gt;
+		&lt;td&gt;EXTREME&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;p&gt;여자부에는 2014 여름리그 우승팀인 `SIGMA`, 용인외국어고등학교 졸업생들로 이루어진 `HAFS All-Stars`, 연세대와 고려대 연합팀인 `연세대`, 경희대와 이화여대 연합팀인 `경이대`, 총 네팀이 참가하였습니다. 새로운 팀이 참가하고, 대회 참가를 위해 대학팀들이 연합을 맺은 첫 대회였습니다.
+        &lt;br /&gt;
+	특히 이번 대회는 `2015 ASPAC` 과 `U-19 Lacrosse Worldcup` 대표선수들이 각 팀들에 포함되어 있어, 이전 대회보다 실력이 향상되었을 것이라 기대되는 대회였습니다. 
+         &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 columns&quot;&gt;
+        &lt;p&gt;
+        	&lt;strong&gt;우  승 : SIGMA&lt;/strong&gt;&lt;br /&gt;
+           준우승 : HAFS All-Stars &lt;br /&gt;
+	 3위 : 연세대  &lt;br /&gt;
+           4위 : 경이대  &lt;br /&gt;
+           최우수선수상 : 최은아(SIGMA) &lt;br /&gt;
+           신인선수상 : 류성일(연세대) &lt;br /&gt;
+           우수선수상 : 권희원(HAFS All-Stars)
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/sigma/regulations&quot;&gt;REGULATIONS&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on November 16, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/league/summer-league-2015&quot;&gt;2015 SUMMER LEAGUE&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on August 22, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introducing Notepad]]></title>
-  <link rel="alternate" type="text/html" href="/personal/introducing-notepad"/>
-  <id>/personal/introducing-notepad</id>
+  <link rel="alternate" type="text/html" href="/jekyll/introducing-notepad"/>
+  <id>/jekyll/introducing-notepad</id>
   <published>2014-07-19T00:00:00+06:00</published>
   <updated>2014-07-19T00:00:00-00:00</updated>
   
@@ -111,7 +140,7 @@
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  
+  <category scheme="/tags/#sample" term="sample" />
   <content type="html">
   
     &lt;p&gt;Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.&lt;/p&gt;
@@ -147,14 +176,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/&quot;&gt;More info about Foundation framework&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/personal/introducing-notepad&quot;&gt;Introducing Notepad&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/jekyll/introducing-notepad&quot;&gt;Introducing Notepad&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documentation]]></title>
-  <link rel="alternate" type="text/html" href="/theme/documentation"/>
-  <id>/theme/documentation</id>
+  <link rel="alternate" type="text/html" href="/jekyll/documentation"/>
+  <id>/jekyll/documentation</id>
   <published>2014-06-19T00:00:00+06:00</published>
   <updated>2014-06-19T00:00:00+06:00</updated>
   <author>
@@ -162,7 +191,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#how-to" term="how-to" />
+  <category scheme="/tags/#sample" term="sample" />
   <content type="html">
   
     &lt;p&gt;General notes and suggestions for customizing &lt;strong&gt;HMFAYSAL Notepad Theme&lt;/strong&gt;.&lt;/p&gt;
@@ -509,14 +538,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;/div&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/theme/documentation&quot;&gt;Documentation&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/jekyll/documentation&quot;&gt;Documentation&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with Cover Image and Text]]></title>
-  <link rel="alternate" type="text/html" href="/lacrosse/readability-feature-post"/>
-  <id>/lacrosse/readability-feature-post</id>
+  <link rel="alternate" type="text/html" href="/jekyll/readability-feature-post"/>
+  <id>/jekyll/readability-feature-post</id>
   <published>2013-05-23T00:00:00+06:00</published>
   <updated>2013-05-23T00:00:00+06:00</updated>
   <author>
@@ -524,7 +553,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample%20post" term="sample post" /><category scheme="/tags/#readability" term="readability" />
+  <category scheme="/tags/#sample" term="sample" />
   <content type="html">
   
     &lt;p&gt;This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: &lt;code&gt;![cover-image](http://path-to-your-image.jpg)&lt;/code&gt;&lt;/p&gt;
@@ -571,14 +600,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/lacrosse/readability-feature-post&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/jekyll/readability-feature-post&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Testing Readability with a Bunch of Text]]></title>
-  <link rel="alternate" type="text/html" href="/articles/readability-post"/>
-  <id>/articles/readability-post</id>
+  <link rel="alternate" type="text/html" href="/jekyll/readability-post"/>
+  <id>/jekyll/readability-post</id>
   <published>2012-05-22T00:00:00+06:00</published>
   <updated>2012-05-22T00:00:00+06:00</updated>
   <author>
@@ -586,7 +615,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample%20post" term="sample post" /><category scheme="/tags/#readability" term="readability" /><category scheme="/tags/#test" term="test" /><category scheme="/tags/#intro" term="intro" />
+  <category scheme="/tags/#sample" term="sample" />
   <content type="html">
   
     &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -631,14 +660,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/articles/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 22, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/jekyll/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 22, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Theme Elements]]></title>
-  <link rel="alternate" type="text/html" href="/theme/theme-elements"/>
-  <id>/theme/theme-elements</id>
+  <link rel="alternate" type="text/html" href="/jekyll/theme-elements"/>
+  <id>/jekyll/theme-elements</id>
   <published>2011-03-10T00:00:00+06:00</published>
   <updated>2013-05-31T00:00:00-00:00</updated>
   
@@ -647,7 +676,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample%20post" term="sample post" />
+  <category scheme="/tags/#sample" term="sample" />
   <content type="html">
   
     &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -755,7 +784,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Default Button&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/theme/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/jekyll/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
