@@ -29,7 +29,7 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다. <br
 **SLOGAN**  Risk everything. Fear Nothing. Live with no regrets.
 
 <br>
-
+![logo]({{ site.url }}/images/sigma-logo.png)
 ![sigma]({{ site.url }}/images/sigma-background.jpg)
 
 
