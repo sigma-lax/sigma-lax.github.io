@@ -8,7 +8,7 @@ chart: true
 ---
 <div class="row">
     <div class="large-12 columns">
-      <table>
+      <table class="player">
         <colgroup>
           <col width="20%">
           <col width="30%">

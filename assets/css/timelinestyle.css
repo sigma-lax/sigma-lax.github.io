@@ -36,6 +36,9 @@ h1, h2 {
   font-weight: bold;
 }
 
+.small-text {
+  font-size: 0.7em;
+}
 /* -------------------------------- 
 
 Modules - reusable parts of our design
@@ -244,7 +247,7 @@ header h1 {
 .cd-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: white;
+  /*background: white;*/
   border-radius: 0.25em;
   padding: 1em;
   box-shadow: 0 3px 0 #d7e4ed;
@@ -253,6 +256,12 @@ header h1 {
   content: "";
   display: table;
   clear: both;
+}
+.cd-timeline-content img {
+  width: 45%;
+  float: left;
+  margin-right: 2%;
+  margin-left: 2%
 }
 .cd-timeline-content h2 {
   color: #303e49;
@@ -312,12 +321,13 @@ header h1 {
     margin-left: 0;
     padding: 1.6em;
     width: 45%;
+    background-color: #e9f0f5;
   }
   .cd-timeline-content::before {
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: #e9f0f5;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -338,7 +348,7 @@ header h1 {
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: #e9f0f5;
   }
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
     float: right;

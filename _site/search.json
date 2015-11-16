@@ -1,11 +1,19 @@
 [
 	
 		{
-		  "title"      : "Why Jekyll?",
-		  "category"   : "webdevelopment",
-		  "url"        : "/webdevelopment/why-jekyll",
-		  "date"       : "2014-07-23 00:00:00 +0600",
-		  "shortdate"  : "July 23, 2014"
+		  "title"      : "SIGMA&#39;S BLOG",
+		  "category"   : "introduce",
+		  "url"        : "/introduce/sigma-blog",
+		  "date"       : "2015-11-16 00:00:00 +0600",
+		  "shortdate"  : "November 16, 2015"
+		} ,
+	
+		{
+		  "title"      : "REGULATIONS",
+		  "category"   : "sigma",
+		  "url"        : "/sigma/regulations",
+		  "date"       : "2015-11-16 00:00:00 +0600",
+		  "shortdate"  : "November 16, 2015"
 		} ,
 	
 		{

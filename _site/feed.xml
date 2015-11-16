@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-11-11T19:49:00+06:00</updated>
+<updated>2015-11-16T17:55:11+06:00</updated>
 <id>/</id>
 <author>
   <name>SIGMA</name>
@@ -19,45 +19,83 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Why Jekyll?]]></title>
-  <link rel="alternate" type="text/html" href="/webdevelopment/why-jekyll"/>
-  <id>/webdevelopment/why-jekyll</id>
-  <published>2014-07-23T00:00:00+06:00</published>
-  <updated>2014-07-23T00:00:00-00:00</updated>
+  <title type="html"><![CDATA[SIGMA'S BLOG]]></title>
+  <link rel="alternate" type="text/html" href="/introduce/sigma-blog"/>
+  <id>/introduce/sigma-blog</id>
+  <published>2015-11-16T00:00:00+06:00</published>
+  <updated>2015-11-16T00:00:00-00:00</updated>
   
   <author>
     <name>SIGMA</name>
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#jekyll" term="jekyll" />
+  <category scheme="/tags/#sigma" term="sigma" />
   <content type="html">
   
-    &lt;p&gt;Well, I guess it’s quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;SIMGA LACROSSE CLUB TEAM&lt;/strong&gt; 의 &lt;strong&gt;BLOG&lt;/strong&gt; 입니다.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt;: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Version Control&lt;/strong&gt;: Contents and files remain on your computer. Perform backups or keep track of changes via GIT or SVN — &lt;em&gt;it’s quite easy without a database.&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: Ruby and Liquid — &lt;em&gt;Jekyll’s foundation&lt;/em&gt; — empower you to easily extend its functionality. Or just use one of &lt;a href=&quot;http://jekyllrb.com/docs/plugins/&quot;&gt;many plugins&lt;/a&gt; created by a striving community.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;: Anything you’ll ever put on your server are static files — chances are good that &lt;em&gt;you’ll never need to worry&lt;/em&gt; about security concerns anymore.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;TEAM SIGMA 는 2014년 1월 창단 된 WOMEN’S LACROSSE CLUB TEAM 입니다. &lt;br /&gt;
+창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다. &lt;br /&gt;
+&lt;br /&gt;
+블로그를 통해 SIGMA 의 소식과 한국 여자라크로스의 소식도 전하려합니다.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;If that still doesn’t convince you to at least give it a try, I’d like to encourage you to head over to the Jekyll website and see it for yourself.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;시그마 SIGMA LACROSSE&lt;/strong&gt;
+&lt;br /&gt;
+&lt;strong&gt;COLOR&lt;/strong&gt;  Black &amp;amp; Gold 
+&lt;br /&gt;
+&lt;strong&gt;SLOGAN&lt;/strong&gt;  Risk everything. Fear Nothing. Live with no regrets.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Heck, it’s that good&lt;/strong&gt; — I even wrote all of the guides for the theme documentation with it!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;
+&lt;img src=&quot;/images/sigma-background.jpg&quot; alt=&quot;sigma&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;chrome---&quot;&gt;이 블로그는 Chrome 환경에 최적화 되어있습니다.&lt;/h6&gt;
+
 
   
-  &lt;p&gt;&lt;a href=&quot;/webdevelopment/why-jekyll&quot;&gt;Why Jekyll?&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/introduce/sigma-blog&quot;&gt;SIGMA'S BLOG&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on November 16, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[REGULATIONS]]></title>
+  <link rel="alternate" type="text/html" href="/sigma/regulations"/>
+  <id>/sigma/regulations</id>
+  <published>2015-11-16T00:00:00+06:00</published>
+  <updated>2015-11-16T00:00:00-00:00</updated>
+  
+  <author>
+    <name>SIGMA</name>
+    <uri></uri>
+    <email>sigmalax@gmail.com</email>
+  </author>
+  <category scheme="/tags/#sigma" term="sigma" />
+  <content type="html">
+  
+    &lt;h2 id=&quot;brbrbr&quot;&gt;선수 계약관련 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;p&gt;“SIGMA Lacrosse”를 “갑”, “선수”를 “을”이라 칭함.&lt;br /&gt;
+&lt;strong&gt;제1조 (계약의 기간)&lt;/strong&gt; : 계약 기간, 계약 연장 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제2조 (훈련 및 경기)&lt;/strong&gt; : 훈련 참석여부, 무단 불참시 벌금 금액 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제3조 (가입비 및 월 회비)&lt;/strong&gt; : 가입비, 월회비 금액, 납부기간, 미납시 벌금 금액, 장기 미납자에 대한 처벌 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제4조 (이적 및 임대)&lt;/strong&gt; : 이적 조건, 임대 조건 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제5조 (“갑”의 권리와 의무)&lt;/strong&gt; : “을”에 대한 보호, “을”에게 정보제공 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제6조 (“을”의 권리와 의무)&lt;/strong&gt; : 선수로서 의무, 책임, 규정이행 등에 관한 내용&lt;br /&gt;
+&lt;strong&gt;제7조 (계약의 해지)&lt;/strong&gt; : 선수로서 그만두거나, 계약만료, “갑”의 통보가능 &lt;br /&gt;
+&lt;strong&gt;제8조 (효력발생)&lt;/strong&gt; : 본 계약은 체결과 동시에 그 효력이 발생한다.&lt;br /&gt;&lt;/p&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;/sigma/regulations&quot;&gt;REGULATIONS&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on November 16, 2015.&lt;/p&gt;</content>
 </entry>
 
 

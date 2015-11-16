@@ -26,8 +26,13 @@ callback([
   } ,
 
   {
-    "text": "Why Jekyll?",
-    "href": "/webdevelopment/why-jekyll"
+    "text": "REGULATIONS",
+    "href": "/sigma/regulations"
+  } ,
+
+  {
+    "text": "SIGMA'S BLOG",
+    "href": "/introduce/sigma-blog"
   } 
 
 ])
