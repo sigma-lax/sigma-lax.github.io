@@ -9,13 +9,92 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-11-16T19:37:20+06:00</updated>
+<updated>2015-11-18T09:08:34+06:00</updated>
 <id>/</id>
 <author>
   <name>SIGMA</name>
   <uri>/</uri>
   <email>sigmalax@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[This is Women's Lacrosse]]></title>
+  <link rel="alternate" type="text/html" href="/introduce/lacrosse-introduction"/>
+  <id>/introduce/lacrosse-introduction</id>
+  <published>2015-11-18T00:00:00+06:00</published>
+  <updated>2015-11-18T00:00:00-00:00</updated>
+  
+  <author>
+    <name>SIGMA</name>
+    <uri></uri>
+    <email>sigmalax@gmail.com</email>
+  </author>
+  <category scheme="/tags/#lacrosse" term="lacrosse" /><category scheme="/tags/#introduce" term="introduce" />
+  <content type="html">
+  
+    &lt;h1 id=&quot;history&quot;&gt;HISTORY&lt;/h1&gt;
+
+&lt;p&gt;
+	1492년 콜럼버스가 아메리카 대륙을 발견했을 무렵, 원주민들 사이에서 성행했던 &lt;code&gt;바가타웨이&lt;/code&gt; 라고 하는 게임을 19세기 중엽 캐나다에서 개량한 것이 라크로스입니다.
+
+	&lt;br /&gt;	
+	&lt;br /&gt;	
+
+	최초의 여자라크로스 경기는 1890년 스코틀랜드의 St Leonalrd School 에서 열렸습니다.
+	미국 최초 여자 라크로스 팀은 1926년  Miss Rosebelle Sinclair 가 만든 볼티모어 Bryn Mawr School 에 만든 여자 라크로스 팀이다. 1930년대 중반까지 남자라크로스와 여자라크로스는 보호장비없이 실제로 같은 경기규칙을 가지고 있었습니다. 전통적인 규칙을 고수하려고 했던 여자라크로스와 기존의 경기를 변화시켜온 남자라크로스는 같은 경기에서 파생되었지만 현재는 서로 다른 규칙아래에서 경기가 진행되고있습니다. 
+	&lt;br /&gt;
+	&lt;table&gt;
+		&lt;thead&gt;
+			&lt;tr&gt;
+				&lt;th&gt;여자&lt;/th&gt;
+				&lt;th&gt;남자&lt;/th&gt;
+			&lt;/tr&gt;
+		&lt;/thead&gt;
+		&lt;tbody&gt;
+			&lt;tr&gt;
+				&lt;td&gt;Non-Contact Lacrosse&lt;/td&gt;
+				&lt;td&gt;Contact Lacrosse&lt;/td&gt;
+			&lt;/tr&gt;			
+		&lt;/tbody&gt;
+	&lt;/table&gt;
+
+&lt;/p&gt;
+
+&lt;h1 id=&quot;field&quot;&gt;FIELD&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/lacrosse-field.jpg&quot; alt=&quot;field&quot; class=&quot;img_70&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;positions&quot;&gt;POSITIONS&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table style=&quot;width: 60%;&quot;&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Attack&lt;/th&gt;
+		&lt;td&gt;first home&lt;/td&gt;
+		&lt;td&gt;second home&lt;/td&gt;
+		&lt;td colspan=&quot;2&quot;&gt;third home&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Midfielders&lt;/th&gt;
+		&lt;td&gt;right/left attack wing&lt;/td&gt;
+		&lt;td&gt;right/left defensive wing&lt;/td&gt;
+		&lt;td colspan=&quot;2&quot;&gt;center&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Defenders&lt;/th&gt;
+		&lt;td&gt;point&lt;/td&gt;
+		&lt;td&gt;cover point&lt;/td&gt;
+		&lt;td&gt;third man&lt;/td&gt;
+		&lt;td&gt;goalie&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;/introduce/lacrosse-introduction&quot;&gt;This is Women's Lacrosse&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on November 18, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -33,23 +112,31 @@
   <category scheme="/tags/#sigma" term="sigma" />
   <content type="html">
   
-    &lt;p&gt;&lt;strong&gt;SIMGA LACROSSE CLUB TEAM&lt;/strong&gt; 의 &lt;strong&gt;BLOG&lt;/strong&gt; 입니다.&lt;/p&gt;
+    &lt;p&gt;&lt;small&gt;
+&lt;strong&gt;SIMGA LACROSSE CLUB TEAM&lt;/strong&gt; 의 &lt;strong&gt;BLOG&lt;/strong&gt; 입니다.
+TEAM SIGMA 는 2014년 1월 창단 된 WOMEN’S LACROSSE CLUB TEAM 입니다.
+창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다.
+&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;TEAM SIGMA 는 2014년 1월 창단 된 WOMEN’S LACROSSE CLUB TEAM 입니다. &lt;br /&gt;
-창단 이후 국내에서 열리는 인도어리그, 여름리그에 참가하며 좋은 성적을 거두고 있습니다. &lt;br /&gt;
-&lt;br /&gt;
-블로그를 통해 SIGMA 의 소식과 한국 여자라크로스의 소식도 전하려합니다.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;br /&gt;	
+		블로그를 통해 SIGMA 의 소식과 한국 여자라크로스의 소식도 전하려합니다.
+	&lt;br /&gt;
+	&lt;br /&gt;
+&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;시그마 SIGMA LACROSSE&lt;/strong&gt;
-&lt;br /&gt;
-&lt;strong&gt;COLOR&lt;/strong&gt;  Black &amp;amp; Gold 
-&lt;br /&gt;
-&lt;strong&gt;SLOGAN&lt;/strong&gt;  Risk everything. Fear Nothing. Live with no regrets.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
+&lt;div&gt;
+	&lt;h6&gt;시그마 SIGMA LACROSSE&lt;/h6&gt;
+	&lt;br /&gt;
+	&lt;h6&gt;COLOR&lt;/h6&gt;
+	&lt;p&gt;Black &amp;amp; Gold &lt;/p&gt;
+	&lt;h6&gt;SLOGAN&lt;/h6&gt;
+	&lt;p&gt;Risk everything. Fear Nothing. Live with no regrets.&lt;/p&gt;
+	&lt;h6&gt;LOGO&lt;/h6&gt;
+	&lt;p&gt;팀명인 `SIGMA`와 팀 color인  Black &amp;amp; Gold로 `바다의 무법자` 상어를 표현하였다.&lt;/p&gt;
+	&lt;br /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -135,8 +222,8 @@
 
 <entry>
   <title type="html"><![CDATA[Introducing Notepad]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/introducing-notepad"/>
-  <id>/jekyll/introducing-notepad</id>
+  <link rel="alternate" type="text/html" href="/introducing-notepad"/>
+  <id>/introducing-notepad</id>
   <published>2014-07-19T00:00:00+06:00</published>
   <updated>2014-07-19T00:00:00-00:00</updated>
   
@@ -145,7 +232,7 @@
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample" term="sample" />
+  
   <content type="html">
   
     &lt;p&gt;Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.&lt;/p&gt;
@@ -181,14 +268,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/&quot;&gt;More info about Foundation framework&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/jekyll/introducing-notepad&quot;&gt;Introducing Notepad&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/introducing-notepad&quot;&gt;Introducing Notepad&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documentation]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/documentation"/>
-  <id>/jekyll/documentation</id>
+  <link rel="alternate" type="text/html" href="/documentation"/>
+  <id>/documentation</id>
   <published>2014-06-19T00:00:00+06:00</published>
   <updated>2014-06-19T00:00:00+06:00</updated>
   <author>
@@ -196,7 +283,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample" term="sample" />
+  
   <content type="html">
   
     &lt;p&gt;General notes and suggestions for customizing &lt;strong&gt;HMFAYSAL Notepad Theme&lt;/strong&gt;.&lt;/p&gt;
@@ -543,14 +630,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;/div&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/jekyll/documentation&quot;&gt;Documentation&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/documentation&quot;&gt;Documentation&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with Cover Image and Text]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/readability-feature-post"/>
-  <id>/jekyll/readability-feature-post</id>
+  <link rel="alternate" type="text/html" href="/readability-feature-post"/>
+  <id>/readability-feature-post</id>
   <published>2013-05-23T00:00:00+06:00</published>
   <updated>2013-05-23T00:00:00+06:00</updated>
   <author>
@@ -558,7 +645,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample" term="sample" />
+  
   <content type="html">
   
     &lt;p&gt;This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: &lt;code&gt;![cover-image](http://path-to-your-image.jpg)&lt;/code&gt;&lt;/p&gt;
@@ -605,14 +692,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/jekyll/readability-feature-post&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/readability-feature-post&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Testing Readability with a Bunch of Text]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/readability-post"/>
-  <id>/jekyll/readability-post</id>
+  <link rel="alternate" type="text/html" href="/readability-post"/>
+  <id>/readability-post</id>
   <published>2012-05-22T00:00:00+06:00</published>
   <updated>2012-05-22T00:00:00+06:00</updated>
   <author>
@@ -620,7 +707,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample" term="sample" />
+  
   <content type="html">
   
     &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -665,14 +752,14 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/jekyll/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 22, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/readability-post&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on May 22, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Theme Elements]]></title>
-  <link rel="alternate" type="text/html" href="/jekyll/theme-elements"/>
-  <id>/jekyll/theme-elements</id>
+  <link rel="alternate" type="text/html" href="/theme-elements"/>
+  <id>/theme-elements</id>
   <published>2011-03-10T00:00:00+06:00</published>
   <updated>2013-05-31T00:00:00-00:00</updated>
   
@@ -681,7 +768,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
     <uri></uri>
     <email>sigmalax@gmail.com</email>
   </author>
-  <category scheme="/tags/#sample" term="sample" />
+  
   <content type="html">
   
     &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -789,7 +876,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Default Button&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/jekyll/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/theme-elements&quot;&gt;Theme Elements&lt;/a&gt; was originally published by SIGMA at &lt;a href=&quot;&quot;&gt;SIGMA&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>

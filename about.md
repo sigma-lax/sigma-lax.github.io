@@ -70,8 +70,8 @@ chart: true
                     우수선수상 : 권희원(HAFS All-Stars)
                 </p>
           </p>
-          <img src="/images/sigma-2015-summer.jpg">
-          <img src="/images/sigma-2015-summer-team.jpg">
+          <img src="/images/sigma-2015-summer.jpg" >
+          <img src="/images/sigma-2015-summer-team.jpg" >
         <span class="cd-date">2015-08</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->

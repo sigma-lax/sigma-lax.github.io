@@ -2,27 +2,27 @@ callback([
 
   {
     "text": "Theme Elements",
-    "href": "/jekyll/theme-elements"
+    "href": "/theme-elements"
   } ,
 
   {
     "text": "Testing Readability with a Bunch of Text",
-    "href": "/jekyll/readability-post"
+    "href": "/readability-post"
   } ,
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "/jekyll/readability-feature-post"
+    "href": "/readability-feature-post"
   } ,
 
   {
     "text": "Documentation",
-    "href": "/jekyll/documentation"
+    "href": "/documentation"
   } ,
 
   {
     "text": "Introducing Notepad",
-    "href": "/jekyll/introducing-notepad"
+    "href": "/introducing-notepad"
   } ,
 
   {
@@ -33,6 +33,11 @@ callback([
   {
     "text": "SIGMA'S BLOG",
     "href": "/introduce/sigma-blog"
+  } ,
+
+  {
+    "text": "This is Women's Lacrosse",
+    "href": "/introduce/lacrosse-introduction"
   } 
 
 ])

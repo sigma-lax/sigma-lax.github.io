@@ -56,6 +56,10 @@
 
     
     <url>
+        <loc>/introduce/lacrosse-introduction</loc>
+    </url>
+    
+    <url>
         <loc>/introduce/sigma-blog</loc>
     </url>
     
@@ -64,23 +68,23 @@
     </url>
     
     <url>
-        <loc>/jekyll/introducing-notepad</loc>
+        <loc>/introducing-notepad</loc>
     </url>
     
     <url>
-        <loc>/jekyll/documentation</loc>
+        <loc>/documentation</loc>
     </url>
     
     <url>
-        <loc>/jekyll/readability-feature-post</loc>
+        <loc>/readability-feature-post</loc>
     </url>
     
     <url>
-        <loc>/jekyll/readability-post</loc>
+        <loc>/readability-post</loc>
     </url>
     
     <url>
-        <loc>/jekyll/theme-elements</loc>
+        <loc>/theme-elements</loc>
     </url>
     
 </urlset>

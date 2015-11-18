@@ -2,8 +2,8 @@
 layout: post
 title: "Documentation"
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
-category: jekyll
-tags: [sample]
+category: 
+tags: []
 imagefeature: cover10.jpg
 ---
 
