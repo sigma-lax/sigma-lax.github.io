@@ -49,7 +49,7 @@ featured: true
 
 <br>
 
-<table style="width: 60%;">
+<table style="width: 55%;">
 	<tr>
 		<th>Attack</th>
 		<td>first home</td>
