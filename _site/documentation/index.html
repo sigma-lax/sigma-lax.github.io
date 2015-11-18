@@ -559,11 +559,10 @@ Description: Awesome dude, awesome life
     <script src="/assets/js/notepad.js"></script>
     <script src="/assets/js/scripts.min.js"></script>
     <script src="/assets/js/vendor/nprogress.js"></script>
-    <script src="/assets/js/modernizr.js"></script> <!-- Modernizr -->
+    <script src="/assets/js/moderhnizr.js"></script> <!-- Modernizr -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="/assets/js/main.js"></script> <!-- Resource jQuery -->
     <script src="/assets/js/mouse.js"></script> <!-- image moussover js -->
-
 
     <script>
       $(document).foundation();
@@ -586,6 +585,52 @@ Description: Awesome dude, awesome life
 </script>
 
 <script>NProgress.start();var interval=setInterval(function(){NProgress.inc()},1000);jQuery(window).load(function(){clearInterval(interval);NProgress.done()});jQuery(window).unload(function(){NProgress.start()});</script>
+
+<script> 
+  function wrapWindowByMask(){
+    //화면의 높이와 너비를 구한다.
+    var maskHeight = $(document).height();  
+    var maskWidth = $(window).width();
+
+    //마스크의 높이와 너비를 화면 것으로 만들어 전체 화면을 채운다.
+    $('#mask').css({'width':maskWidth,'height':maskHeight});  
+    //마스크의 투명도 처리
+          $('#mask').fadeTo("slow",0.8);    
+  }
+
+  $(document).ready(function(){
+    //wrapWindowByMask();
+    //불투명 배경 띄우기
+    $('.openMask').click(function(e){
+      e.preventDefault();
+      wrapWindowByMask();
+    });
+  });
+  
+// 팝업 , 불투명 배경 띄우기
+  function clicktest(imgSrc){
+    // 중심잡기
+    // $('#imgPopUp').attr('background-image', imgSrc);
+    $('#popUp').attr('src', imgSrc);
+    $('#imgPopUp').center();
+    $('#imgPopUp').show();
+    wrapWindowByMask();
+  }
+  
+  function btnexit(){
+    $('#imgPopUp').hide();
+    $('#mask').hide();
+    
+  }
+
+  jQuery.fn.center = function () {
+    this.css("position","absolute");
+    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + $(window).scrollTop()) + "px");
+    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + $(window).scrollLeft()) + "px");
+    return this;
+}
+
+  </script>
  
 </body>
 </html>

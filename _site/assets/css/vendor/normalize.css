@@ -442,3 +442,17 @@ th {
   margin-right: 60px;
   margin-bottom: 15px;
 }
+
+/* img layer popup*/
+#mask {  
+  position:absolute;  
+  z-index:9000;  
+  background-color:#000;  
+  display:none;  
+  left:0;
+  top:0;
+} 
+
+#imgPopUp {
+      z-index: 10000;
+}

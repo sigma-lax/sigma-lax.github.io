@@ -27,7 +27,7 @@ chart: true
       <div class="cd-timeline-content">
         <h2>2014 SUMMER LEAGUE</h2>
         <p>2014 SUMMER LEAGUE 우승</p>
-        <img src="/images/sigma-background.jpg">
+        <img src="/images/sigma-background.jpg" onclick="clicktest(this.src);">
         <span class="cd-date">2014-07</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
@@ -38,7 +38,7 @@ chart: true
       <div class="cd-timeline-content">
         <h2>2015 INDOOR LEAGUE </h2>
         <p>2015 INDOOR LEAGUE 우승 </p>
-        <img src="/images/sigma-2015-indoor-team.jpg">
+        <img src="/images/sigma-2015-indoor-team.jpg" onclick="clicktest(this.src);">
         <span class="cd-date">2015-01</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
@@ -70,12 +70,13 @@ chart: true
                     우수선수상 : 권희원(HAFS All-Stars)
                 </p>
           </p>
-          <img src="/images/sigma-2015-summer.jpg" >
-          <img src="/images/sigma-2015-summer-team.jpg" >
+          <img src="/images/sigma-2015-summer.jpg" onclick="clicktest(this.src);">
+          <img src="/images/sigma-2015-summer-team.jpg" onclick="clicktest(this.src);">
         <span class="cd-date">2015-08</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
   </section> <!-- cd-timeline -->
 </div>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="/assets/js/main.js"></script> <!-- Resource jQuery -->
