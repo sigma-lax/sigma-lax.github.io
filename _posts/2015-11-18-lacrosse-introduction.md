@@ -5,6 +5,7 @@ description:
 headline: 
 modified: 2015-11-18
 category: introduce
+imagefeature: lacrosse-field.jpg
 tags: [lacrosse, introduce]
 comments: false
 featured: true
