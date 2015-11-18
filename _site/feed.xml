@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-11-18T11:45:22+06:00</updated>
+<updated>2015-11-18T12:22:54+06:00</updated>
 <id>/</id>
 <author>
   <name>SIGMA</name>
@@ -94,7 +94,9 @@
 
 &lt;h1 id=&quot;equipment&quot;&gt;EQUIPMENT&lt;/h1&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
 &lt;ul class=&quot;inline_list&quot;&gt;
 	&lt;li&gt;&lt;strong&gt;Stick&lt;/strong&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;strong&gt;mouth guard&lt;/strong&gt;&lt;/li&gt;
@@ -146,7 +148,7 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN’S LACROSSE CLUB TEAM 입니다.
 	&lt;h6&gt;SLOGAN&lt;/h6&gt;
 	&lt;p&gt;Risk everything. Fear Nothing. Live with no regrets.&lt;/p&gt;
 	&lt;h6&gt;LOGO&lt;/h6&gt;
-	&lt;p&gt;팀명인 `SIGMA`와 팀 color인  Black &amp;amp; Gold로 `바다의 무법자` 상어를 표현하였다.&lt;/p&gt;
+	&lt;p&gt;팀명인 &lt;code&gt;SIGMA&lt;/code&gt;와 팀 color인  Black &amp;amp; Gold로 &lt;code&gt;바다의 무법자&lt;/code&gt; 상어를 표현하였다.&lt;/p&gt;
 	&lt;br /&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/images/sigma-logo.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;

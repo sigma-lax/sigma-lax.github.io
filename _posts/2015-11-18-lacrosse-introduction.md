@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "This is Women's Lacrosse"
+description: 
+headline: 
 modified: 2015-11-18
 category: introduce
 tags: [lacrosse, introduce]
 comments: false
-imagefeature: lacrosse-field.jpg
 featured: true
 ---
 

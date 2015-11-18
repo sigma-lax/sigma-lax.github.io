@@ -35,7 +35,7 @@ TEAM SIGMA 는 2014년 1월 창단 된 WOMEN'S LACROSSE CLUB TEAM 입니다.
 	<h6>SLOGAN</h6>
 	<p>Risk everything. Fear Nothing. Live with no regrets.</p>
 	<h6>LOGO</h6>
-	<p>팀명인 `SIGMA`와 팀 color인  Black & Gold로 `바다의 무법자` 상어를 표현하였다.</p>
+	<p>팀명인 <code>SIGMA</code>와 팀 color인  Black & Gold로 <code>바다의 무법자</code> 상어를 표현하였다.</p>
 	<br>
 </div>	
 ![logo]({{ site.url }}/images/sigma-logo.png)
