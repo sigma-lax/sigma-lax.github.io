@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "This is Women's Lacrosse"
-description: 
-headline: 
 modified: 2015-11-18
 category: introduce
 tags: [lacrosse, introduce]
