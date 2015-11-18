@@ -5,6 +5,7 @@ modified: 2015-11-18
 category: introduce
 tags: [lacrosse, introduce]
 comments: false
+imagefeature: lacrosse-field.jpg
 featured: true
 ---
 
@@ -68,3 +69,16 @@ featured: true
 		<td>goalie</td>
 	</tr>
 </table>
+
+#EQUIPMENT
+
+<br>
+<ul class="inline_list">
+	<li><strong>Stick</strong></li>
+	<li><strong>mouth guard</strong></li>
+	<li><strong>goggles</strong></li>
+	<li><strong>gloves</strong></li>
+	<li><strong>cleats</strong></li>
+</ul>
+
+<img src="/images/lacrosse-equipment.jpg" alt="equipment" class="img_70">

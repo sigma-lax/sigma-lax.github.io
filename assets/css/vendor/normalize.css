@@ -435,3 +435,10 @@ th {
 .img_70 {
   width: 70%;
 }
+
+/* list */
+.inline_list li {
+  float: left;
+  margin-right: 60px;
+  margin-bottom: 15px;
+}
