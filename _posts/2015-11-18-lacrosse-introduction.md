@@ -73,6 +73,8 @@ featured: true
 #EQUIPMENT
 
 <br>
+<br>
+
 <ul class="inline_list">
 	<li><strong>Stick</strong></li>
 	<li><strong>mouth guard</strong></li>
