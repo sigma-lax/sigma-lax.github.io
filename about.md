@@ -80,7 +80,7 @@ chart: true
       </div> <!-- cd-timeline-img -->
       <div class="cd-timeline-content">
           <h2>2016 INDOOR LEAGUE</h2>
-          <p><strong>2016 INDOOR LEAGUE 우승</strong><br>
+          <p><strong>2016 INDOOR LEAGUE 우승</strong><br></p>
           <br>
             <strong>2016/1/10</strong><br>
             <code>예선1) </code>SIGMA 6 : 1 연세대학교<br>
