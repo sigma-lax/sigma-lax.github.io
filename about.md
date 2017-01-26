@@ -50,26 +50,57 @@ chart: true
           <h2>2015 SUMMER LEAGUE</h2>
           <p><strong>2015 SUMMER LEAGUE 우승</strong><br>
           <br>
-                <strong>2015/8/8</strong><br>
-                SIGMA 25 : 2 경이대<br>
-                #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
-                #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
+            <strong>2015/8/8</strong><br>
+            SIGMA 25 : 2 경이대<br>
+            #G 8(1), 10(3), 11(3), 12(6), 14(1), 16(3), 17(6), 27(2)<br>
+            #A 8(1), 10(3), 11(2), 14(3), 17(1)<br>
+            <br>
+            <strong>2015/8/15</strong><br>
+            SIGMA 29 : 1 연세대<br>
+            #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
+            #A 9(1), 10(1), 11(1), 13(2), 33(3)<br>
+            <br>
+            <p class="small-text">
+                <strong>우  승 : SIGMA</strong><br>
+                준우승 : HAFS All-Stars <br>
+                3위 : 연세대  <br>
+                4위 : 경이대  <br>
+                최우수선수상 : 최은아(SIGMA) <br>
+                신인선수상 : 류성일(연세대) <br>
+                우수선수상 : 권희원(HAFS All-Stars)
+            </p>
+          <img src="/images/sigma-2015-summer.jpg" onclick="clicktest(this.src);">
+          <img src="/images/sigma-2015-summer-team.jpg" onclick="clicktest(this.src);">
+        <span class="cd-date">2015-08</span>
+      </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
+      <div class="cd-timeline-img cd-location">
+        <img src="/images/cd-icon-location.svg" alt="Location">
+      </div> <!-- cd-timeline-img -->
+      <div class="cd-timeline-content">
+          <h2>2016 INDOOR LEAGUE</h2>
+          <p><strong>2016 INDOOR LEAGUE 우승</strong><br>
+          <br>
+            <strong>2016/1/10</strong><br>
+            <code>예선1) </code>SIGMA 6 : 1 연세대학교<br>
+            <code>예선2) </code>SIGMA 15 : 0 이화여자대학교<br>
+            <br>
+            <strong>2016/1/24</strong><br>
+            <code>예선3) </code>SIGMA 10 : 2 연세대학교<br>
+            <code>예선4) </code>SIGMA 11 : 4 이화여자대학교<br>
+            <br>
+            <code>결승전) </code>SIGMA 13 : 2 연세대학교<br>
+            <br>
+            <p class="small-text">
+                <strong>우  승 : SIGMA</strong><br>
+                준우승 : 연세대학교 <br>
+                3위 : 이화여자대학교  <br>
                 <br>
-                <strong>2015/8/15</strong><br>
-                SIGMA 29 : 1 연세대<br>
-                #G 9(3), 10(6), 11(3), 12(2), 13(5), 27(3), 33(7)<br>
-                #A 9(1), 10(1), 11(1), 13(2), 33(3)<br>
-                <br>
-                <p class="small-text">
-                    <strong>우  승 : SIGMA</strong><br>
-                    준우승 : HAFS All-Stars <br>
-                    3위 : 연세대  <br>
-                    4위 : 경이대  <br>
-                    최우수선수상 : 최은아(SIGMA) <br>
-                    신인선수상 : 류성일(연세대) <br>
-                    우수선수상 : 권희원(HAFS All-Stars)
-                </p>
-          </p>
+                최우수선수상 : 이혜수(SIGMA) <br>
+                우수선수상 : 정채윤(연세대) <br>
+                신인선수상 : 이유나(이화여자대학교)
+            </p>
           <img src="/images/sigma-2015-summer.jpg" onclick="clicktest(this.src);">
           <img src="/images/sigma-2015-summer-team.jpg" onclick="clicktest(this.src);">
         <span class="cd-date">2015-08</span>
