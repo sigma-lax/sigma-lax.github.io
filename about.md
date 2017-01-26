@@ -101,9 +101,7 @@ chart: true
                 우수선수상 : 정채윤(연세대) <br>
                 신인선수상 : 이유나(이화여자대학교)
             </p>
-          <img src="/images/sigma-2015-summer.jpg" onclick="clicktest(this.src);">
-          <img src="/images/sigma-2015-summer-team.jpg" onclick="clicktest(this.src);">
-        <span class="cd-date">2015-08</span>
+        <span class="cd-date">2016-01</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
   </section> <!-- cd-timeline -->
