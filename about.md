@@ -19,8 +19,8 @@ chart: true
           </p>
           <span class="cd-date">2014-01-27</span>
       </div> <!-- cd-timeline-content -->
-      </div> <!-- cd-timeline-block -->
-      <div class="cd-timeline-block">
+    </div> <!-- cd-timeline-block -->
+    <div class="cd-timeline-block">
       <div class="cd-timeline-img cd-movie">
         <img src="/images/cd-icon-movie.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
@@ -48,7 +48,7 @@ chart: true
       </div> <!-- cd-timeline-img -->
       <div class="cd-timeline-content">
           <h2>2015 SUMMER LEAGUE</h2>
-          <p><strong>2015 SUMMER LEAGUE 우승</strong><br>
+          <p><strong>2015 SUMMER LEAGUE 우승</strong><br></p>
           <br>
             <strong>2015/8/8</strong><br>
             SIGMA 25 : 2 경이대<br>
@@ -104,7 +104,7 @@ chart: true
         <span class="cd-date">2016-01</span>
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
-  </section> <!-- cd-timeline -->
+</section> <!-- cd-timeline -->
 </div>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
